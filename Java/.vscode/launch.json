@@ -1,0 +1,189 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "twoArray",
+            "request": "launch",
+            "mainClass": "twoArray",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "mergTwoArrSort",
+            "request": "launch",
+            "mainClass": "mergTwoArrSort",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "arrPalindrom",
+            "request": "launch",
+            "mainClass": "arrPalindrom",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "ReversArry",
+            "request": "launch",
+            "mainClass": "ReversArry",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "arrSpecDelete",
+            "request": "launch",
+            "mainClass": "arrSpecDelete",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "arrCheckIncDec",
+            "request": "launch",
+            "mainClass": "arrCheckIncDec",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "arrMaxMin",
+            "request": "launch",
+            "mainClass": "arrMaxMin",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "arrayOccur",
+            "request": "launch",
+            "mainClass": "arrayOccur",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "arrays",
+            "request": "launch",
+            "mainClass": "arrays",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "Pattren",
+            "request": "launch",
+            "mainClass": "Pattren",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "Palindrom",
+            "request": "launch",
+            "mainClass": "Palindrom",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "febSeries",
+            "request": "launch",
+            "mainClass": "febSeries",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "reverseNum",
+            "request": "launch",
+            "mainClass": "reverseNum",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "sumOdd",
+            "request": "launch",
+            "mainClass": "sumOdd",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "greatestNumber",
+            "request": "launch",
+            "mainClass": "greatestNumber",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "leapYear",
+            "request": "launch",
+            "mainClass": "leapYear",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "checkNumber",
+            "request": "launch",
+            "mainClass": "checkNumber",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "evenodd",
+            "request": "launch",
+            "mainClass": "evenodd",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "First_task",
+            "request": "launch",
+            "mainClass": "First_task",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "swap",
+            "request": "launch",
+            "mainClass": "swap",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "tempConvert",
+            "request": "launch",
+            "mainClass": "tempConvert",
+            "projectName": "Java_7cc7e653"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "Java_7cc7e653"
+        }
+    ]
+}
