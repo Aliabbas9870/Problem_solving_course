@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "fabonic_num",
+            "request": "launch",
+            "mainClass": "fabonic_num",
+            "projectName": "JAVA+DSA+OOP+Interview_eaf8f35e"
+        },
+        {
+            "type": "java",
+            "name": "powercheck",
+            "request": "launch",
+            "mainClass": "powercheck",
+            "projectName": "JAVA+DSA+OOP+Interview_eaf8f35e"
+        },
+        {
+            "type": "java",
+            "name": "palindrom",
+            "request": "launch",
+            "mainClass": "palindrom",
+            "projectName": "JAVA+DSA+OOP+Interview_eaf8f35e"
+        },
+        {
+            "type": "java",
             "name": "Second",
             "request": "launch",
             "mainClass": "Second",
